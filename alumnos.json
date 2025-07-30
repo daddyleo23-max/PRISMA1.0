@@ -1,0 +1,29 @@
+[
+  {
+    "nombre": "Mirella de la Torre",
+    "carrera": "Ingeniería en Sistemas Computacionales",
+    "numero_control": "22874236",
+    "correo": "l22874236@pachuca.tecnm.mx",
+    "huella": "huella_simulada",
+    "clases": [
+      "Taller de Sistemas Operativos - A (Jorge de la Cruz)",
+      "Clases de Perreo 1 - D (Juan Perez Martin)",
+      "Bases de Datos Aplicadas - B (Juan Escutia Perez)",
+      "Gestion de Proyectos de Software - C (Miguel de la Torre Ruiz)",
+      "Clases de Cruising - F (Maria Antonieta de las Nieves)"
+    ]
+  },
+  {
+    "nombre": "Kimberly Guadalupe Loaiza Martinez",
+    "carrera": "Ingeniería Mecatrónica",
+    "numero_control": "25875945",
+    "correo": "l25875945@pachuca.tecnm.mx",
+    "huella": "huella_simulada",
+    "clases": [
+      "Taller de Sistemas Operativos - A (Jorge de la Cruz)",
+      "Bases de Datos Aplicadas - B (Juan Escutia Perez)",
+      "Gestion de Proyectos de Software - C (Miguel de la Torre Ruiz)",
+      "Clases de Cruising - F (Maria Antonieta de las Nieves)"
+    ]
+  }
+]

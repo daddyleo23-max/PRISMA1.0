@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Juan Escutia Perez",
+    "area": "Ingeniería en Sistemas Computacionales",
+    "placa": "ISC200903",
+    "correo": "isc200903@pachuca.tecnm.mx",
+    "huella": "huella_simulada"
+  },
+  {
+    "nombre": "Maria Antonieta de las Nieves",
+    "area": "Ingeniería en Sistemas Computacionales",
+    "placa": "ISC200820",
+    "correo": "isc200820@pachuca.tecnm.mx",
+    "huella": "huella_simulada"
+  },
+  {
+    "nombre": "Miguel de la Torre Ruiz",
+    "area": "Ingeniería en Sistemas Computacionales",
+    "placa": "ISC200789",
+    "correo": "isc200789@pachuca.tecnm.mx",
+    "huella": "huella_simulada"
+  }
+]

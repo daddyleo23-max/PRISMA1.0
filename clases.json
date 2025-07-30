@@ -1,0 +1,31 @@
+[
+    {
+        "materia": "Gestion de Proyectos de Software",
+        "grupo": "C",
+        "docente": "Miguel de la Torre Ruiz",
+        "salon": "Y9",
+        "ciclo": "AGO-DIC/2025",
+        "dias": [
+            "Martes",
+            "Jueves"
+        ],
+        "hora_inicio": "07:00",
+        "hora_fin": "09:00",
+        "alumnos": []
+    },
+    {
+        "materia": "Clases de Cruising",
+        "grupo": "F",
+        "docente": "Maria Antonieta de las Nieves",
+        "salon": "Y9",
+        "ciclo": "AGO-DIC/2025",
+        "dias": [
+            "Lunes",
+            "Miércoles",
+            "Viernes"
+        ],
+        "hora_inicio": "19:00",
+        "hora_fin": "21:00",
+        "alumnos": []
+    }
+]
